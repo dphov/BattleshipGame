@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: ArrayEmptyException
+  - text: ArrayIndexOutOfBoundsException
+  - text: NegativeArraySizeException
+  - text: NegativeArrayIndexException
+  - text: ZeroArraySizeException
+  - text: NullArrayReferenceException
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/1939#comment
+status: Solved
+record: -1
+local_check: false

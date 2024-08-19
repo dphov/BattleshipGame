@@ -1,0 +1,14 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11529#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 3. Wrong answer
+  time: "Sun, 18 Aug 2024 21:22:51 UTC"
+record: -1
+submission_language: java17

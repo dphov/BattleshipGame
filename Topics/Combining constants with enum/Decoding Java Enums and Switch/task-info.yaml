@@ -1,0 +1,17 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: The `Day` enum can also be used to iterate over days of the week.
+  - text: "In Java, it&#x27;s correct to use the enum in the switch statement this way."
+  - text: "In the switch statement, after MONDAY case, &#x27;default&#x27; statement\
+    \ should be added instead of other days cases."
+  - text: The Day enum can extend another class.
+  - text: Enum&#x27;s static method can be invoked without creating an instance of enum.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30493#comment
+status: Unchecked
+record: -1
+local_check: false

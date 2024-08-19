@@ -1,0 +1,45 @@
+type: edu
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/battleship/WrongShipLocationException.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/IField.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/WrongSizeException.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Field.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/FieldCell.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/CellStatus.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Game.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Ship.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Coodinate.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Player.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/35309#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Mon, 19 Aug 2024 16:03:19 UTC"
+record: -1

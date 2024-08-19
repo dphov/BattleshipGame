@@ -1,0 +1,42 @@
+type: edu
+custom_name: Implement the "fog of war" feature
+files:
+  - name: src/battleship/Main.java
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+  - name: src/battleship/WrongShipLocationException.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/IField.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/WrongSizeException.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Field.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/FieldCell.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/CellStatus.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Game.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Ship.java
+    visible: true
+    learner_created: true
+  - name: src/battleship/Coodinate.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/35307#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 18 Aug 2024 21:35:29 UTC"
+record: 4

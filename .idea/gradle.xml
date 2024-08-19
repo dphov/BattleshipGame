@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Battleship with Java/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/About abstract classes" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Parts of an abstract class" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/A line that throws an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Currencies" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Days of week" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Decoding Java Enums and Switch" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Enum weekday from integer input" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Enum with two constants" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Iterating over enum values" />
+            <option value="$PROJECT_DIR$/Topics/Combining constants with enum/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Danger levels" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Elements of enum" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Java Enum Fields and Methods" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Months" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Robot control" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/System of units" />
+            <option value="$PROJECT_DIR$/Topics/Fields and methods in enum/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

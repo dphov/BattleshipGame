@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1
+  - text: 3
+  - text: 4
+  - text: 5
+  - text: 6
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2470#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 05 Aug 2024 16:36:51 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: false
